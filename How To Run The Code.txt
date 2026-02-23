@@ -1,0 +1,7 @@
+python -m venv venv
+venv\Scripts\activate
+pip install pygame opencv-python mediapipe protobuf==3.20.3
+python main.py
+
+python -m venv clean_env
+clean_env\Scripts\activate
