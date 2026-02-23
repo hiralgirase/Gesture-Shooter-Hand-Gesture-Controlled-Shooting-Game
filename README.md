@@ -80,7 +80,7 @@ GESTURE_SHOOTER/
 
 1.  Clone the repository:
 
-git clone https://github.com/hiralgirase/gesture-shooter.git\
+git clone [https://github.com/hiralgirase/Gesture-Shooter-Hand-Gesture-Controlled-Shooting-Game.git]
 cd gesture-shooter
 
 2.  Install required libraries:
